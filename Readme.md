@@ -11,6 +11,9 @@
 * [AjaxLogin.js](./CS/DXWebApplication1/Scripts/AjaxLogin.js) (VB: [AjaxLogin.js](./VB/DXWebApplication1/Scripts/AjaxLogin.js))
 <!-- default file list end -->
 # How to display a chart in a group footer (in an ASP.NET Web Forms application)
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t228376/)**
+<!-- run online end -->
 
 
 This example demonstrates how to visualize data in a grouped report with the help of the <a href="https://documentation.devexpress.com/XtraReports/clsDevExpressXtraReportsUIXRCharttopic.aspx">XRChart</a> control. For more details, see <a href="https://documentation.devexpress.com/#XtraReports/CustomDocument3291">How to: Display a Chart in a Group Footer</a>.
